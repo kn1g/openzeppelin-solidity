@@ -11,7 +11,7 @@
 ```
 npm install openzeppelin-solidity
 ```
-s
+sd
 
 ## Usage
 
